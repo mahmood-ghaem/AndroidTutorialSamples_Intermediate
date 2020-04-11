@@ -1,0 +1,10 @@
+<resources>
+    <string name = "app_name">CountDownTimer Demo</string>
+    <string name = "buttonAlarmOff">Alarm off</string>
+    <string name = "buttonAlarmOn">Alarm on</string>
+    <string name = "did_you_set_alarm">Did you set alarm?</string>
+    <string name = "alarm_is_on">Alarm is on</string>
+    <string name = "alarm_is_off">Alarm is off</string>
+    <string name = "sayed_mahmood_ghaemmaghami">Sayed Mahmood Ghaemmaghami</string>
+    <string name = "tutorial_01">Tutorial 01</string>
+</resources>
