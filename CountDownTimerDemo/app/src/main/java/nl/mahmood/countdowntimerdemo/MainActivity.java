@@ -15,26 +15,26 @@ import java.util.Calendar;
 
 /**
  * pre requirements
- * A - make layout file correctly
- * B - add string value in string.xml file
- * C - add tollingbell.mp3 in raw folder in res
+ * * A - make layout file correctly
+ * * B - add string value in string.xml file
+ * * C - add tollingbell.mp3 in raw folder in res
  * 1 - define widget
  * 2 - find widget
  * 3 - write methods for buttons
- * 3-1 - method on click for start
- * 3-2 - method on click for stop
+ * * 3-1 - method on click for start
+ * * 3-2 - method on click for stop
  * 4 - get hour and minuet from timePicker
  * 5 - get current hour and minuet
  * 6 - check selected time grater than current time
  * 7 - we use CountDownTimer class
- * 7-1 - define countDownTimer
- * 7-2 - create startCountDownTimer method
- * 7-3 - stopCountDownTimer
- * 7-4 - define to variables INTERVAL & didStartCountDown
- * 7-5 - call startCountDownTimer method to start countDownTimer
- * 7-6 - create onTick method
- * 7-7 - create onFinish method define a media player object to play tollingbell.mp3
- * 7-8 - create formatNumber method to convert a time like 10:3 --> 10:03
+ * * 7-1 - define countDownTimer
+ * * 7-2 - create startCountDownTimer method
+ * * 7-3 - stopCountDownTimer
+ * * 7-4 - define to variables INTERVAL & didStartCountDown
+ * * 7-5 - call startCountDownTimer method to start countDownTimer
+ * * 7-6 - create onTick method
+ * * 7-7 - create onFinish method define a media player object to play tollingbell.mp3
+ * * 7-8 - create formatNumber method to convert a time like 10:3 --> 10:03
  * 8 - change stage
  * 9 - if selected time smaller or equal than current time
  * 10 - check for countDownTimer is working or not
