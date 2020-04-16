@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+    xmlns:app = "http://schemas.android.com/apk/res-auto"
+    xmlns:tools = "http://schemas.android.com/tools"
+    android:layout_width = "match_parent"
+    android:layout_height = "match_parent"
+    tools:context = ".MainActivity">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id = "@+id/consttraintLayout"
+        android:layout_width = "408dp"
+        android:layout_height = "467dp"
+        android:visibility = "invisible"
+        app:layout_constraintEnd_toEndOf = "parent"
+        app:layout_constraintStart_toStartOf = "parent"
+        app:layout_constraintTop_toTopOf = "parent">
+
+        <androidx.gridlayout.widget.GridLayout
+            android:id = "@+id/gridlayout"
+            android:layout_width = "0dp"
+            android:layout_height = "180dp"
+            android:layout_marginTop = "8dp"
+            app:layout_constraintEnd_toEndOf = "parent"
+            app:layout_constraintStart_toStartOf = "parent"
+            app:layout_constraintTop_toBottomOf = "@+id/textViewSum">
+
+            <Button
+                android:id = "@+id/buttonAnswer_0"
+                android:layout_width = "wrap_content"
+                android:layout_height = "wrap_content"
+                android:background = "@color/colorAccent"
+                android:gravity = "center_horizontal|fill|fill_horizontal"
+                android:onClick = "selectAnswer"
+                android:tag = "0"
+                android:text = "15"
+                android:textSize = "36sp"
+                app:layout_column = "0"
+                app:layout_columnWeight = "1"
+                app:layout_row = "0"
+                app:layout_rowWeight = "1" />
+
+            <Button
+                android:id = "@+id/buttonAnswer_1"
+                android:layout_width = "wrap_content"
+                android:layout_height = "wrap_content"
+                android:background = "#DAA00F"
+                android:gravity = "center_horizontal|fill|fill_horizontal"
+                android:onClick = "selectAnswer"
+                android:tag = "1"
+                android:text = "15"
+                android:textSize = "36sp"
+                app:layout_column = "1"
+                app:layout_columnWeight = "1"
+                app:layout_row = "0"
+                app:layout_rowWeight = "1" />
+
+            <Button
+                android:id = "@+id/buttonAnswer_2"
+                android:layout_width = "wrap_content"
+                android:layout_height = "wrap_content"
+                android:background = "#E91E63"
+                android:gravity = "center_horizontal|fill|fill_horizontal"
+                android:onClick = "selectAnswer"
+                android:tag = "2"
+                android:text = "15"
+                android:textSize = "36sp"
+                app:layout_column = "0"
+                app:layout_columnWeight = "1"
+                app:layout_row = "1"
+                app:layout_rowWeight = "1" />
+
+            <Button
+                android:id = "@+id/buttonAnswer_3"
+                android:layout_width = "wrap_content"
+                android:layout_height = "wrap_content"
+                android:background = "#A22CCD"
+                android:gravity = "center_horizontal|fill|fill_horizontal"
+                android:onClick = "selectAnswer"
+                android:tag = "3"
+                android:text = "15"
+                android:textSize = "36sp"
+                app:layout_column = "1"
+                app:layout_columnWeight = "1"
+                app:layout_row = "1"
+                app:layout_rowWeight = "1" />
+
+        </androidx.gridlayout.widget.GridLayout>
+
+        <TextView
+            android:id = "@+id/textViewTimer"
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"
+            android:layout_marginStart = "16dp"
+            android:layout_marginTop = "16dp"
+            android:background = "#FF9800"
+            android:paddingLeft = "20dp"
+            android:paddingTop = "10dp"
+            android:paddingRight = "20dp"
+            android:paddingBottom = "10dp"
+            android:text = "30"
+            android:textSize = "60sp"
+            app:layout_constraintStart_toStartOf = "parent"
+            app:layout_constraintTop_toTopOf = "parent" />
+
+        <TextView
+            android:id = "@+id/textViewScore"
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"
+            android:layout_marginTop = "16dp"
+            android:layout_marginEnd = "16dp"
+            android:background = "#03A9F4"
+            android:padding = "10dp"
+            android:text = "0/0"
+            android:textSize = "60sp"
+            app:layout_constraintEnd_toEndOf = "parent"
+            app:layout_constraintTop_toTopOf = "parent" />
+
+        <TextView
+            android:id = "@+id/textViewSum"
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"
+            android:layout_marginTop = "136dp"
+            android:padding = "10dp"
+            android:text = "20 + 5 = ?"
+            android:textSize = "30sp"
+            app:layout_constraintEnd_toEndOf = "parent"
+            app:layout_constraintStart_toStartOf = "parent"
+            app:layout_constraintTop_toTopOf = "parent" />
+
+        <TextView
+            android:id = "@+id/textViewResult"
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"
+            android:layout_marginTop = "392dp"
+            android:padding = "10dp"
+            android:text = "correct"
+            android:textSize = "36sp"
+            app:layout_constraintEnd_toEndOf = "parent"
+            app:layout_constraintHorizontal_bias = "0.5"
+            app:layout_constraintStart_toStartOf = "parent"
+            app:layout_constraintTop_toTopOf = "parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <Button
+        android:id = "@+id/buttonStart"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:background = "#FFEB3B"
+        android:onClick = "startClick"
+        android:padding = "20dp"
+        android:text = "START"
+        android:textSize = "40sp"
+        android:visibility = "visible"
+        app:layout_constraintBottom_toBottomOf = "parent"
+        app:layout_constraintEnd_toEndOf = "parent"
+        app:layout_constraintHorizontal_bias = "0.502"
+        app:layout_constraintStart_toStartOf = "parent"
+        app:layout_constraintTop_toTopOf = "parent"
+        app:layout_constraintVertical_bias = "0.736" />
+
+    <TextView
+        android:id = "@+id/textViewEnd"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_marginTop = "146dp"
+        android:layout_marginBottom = "484dp"
+        android:background = "#E91E63"
+        android:padding = "10dp"
+        android:text = "You win!"
+        android:textSize = "60sp"
+        android:visibility = "invisible"
+        app:layout_constraintBottom_toBottomOf = "parent"
+        app:layout_constraintEnd_toEndOf = "parent"
+        app:layout_constraintHorizontal_bias = "0.506"
+        app:layout_constraintStart_toStartOf = "parent"
+        app:layout_constraintTop_toTopOf = "parent"
+        app:layout_constraintVertical_bias = "1.0" />
+
+    <TextView
+        android:id = "@+id/textViewSummary"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_marginTop = "56dp"
+        android:layout_marginBottom = "396dp"
+        android:text = "Summery:"
+        android:textSize = "24sp"
+        android:visibility = "invisible"
+        app:layout_constraintBottom_toBottomOf = "parent"
+        app:layout_constraintEnd_toEndOf = "parent"
+        app:layout_constraintHorizontal_bias = "0.501"
+        app:layout_constraintStart_toStartOf = "parent"
+        app:layout_constraintTop_toBottomOf = "@+id/textViewEnd" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
