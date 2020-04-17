@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+    xmlns:app = "http://schemas.android.com/apk/res-auto"
+    xmlns:tools = "http://schemas.android.com/tools"
+    android:id = "@+id/constraintLayoutPicture"
+    android:layout_width = "match_parent"
+    android:layout_height = "match_parent"
+    tools:context = ".MainActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id = "@+id/constraintLayoutButtons"
+        android:layout_width = "match_parent"
+        android:layout_height = "match_parent"
+        app:layout_constraintBottom_toBottomOf = "parent"
+        app:layout_constraintEnd_toEndOf = "parent"
+        app:layout_constraintStart_toStartOf = "parent"
+        app:layout_constraintTop_toTopOf = "parent">
+
+        <Button
+            android:id = "@+id/buttonCityName_3"
+            android:layout_width = "0dp"
+            android:layout_height = "wrap_content"
+            android:layout_marginStart = "10dp"
+            android:layout_marginEnd = "10dp"
+            android:layout_marginBottom = "10dp"
+            android:onClick = "cityNameClick"
+            android:tag = "3"
+            android:text = "Button"
+            app:layout_constraintBottom_toTopOf = "@+id/buttonCityName_2"
+            app:layout_constraintEnd_toEndOf = "parent"
+            app:layout_constraintStart_toStartOf = "parent" />
+
+        <Button
+            android:id = "@+id/buttonCityName_2"
+            android:layout_width = "0dp"
+            android:layout_height = "wrap_content"
+            android:layout_marginStart = "10dp"
+            android:layout_marginEnd = "10dp"
+            android:layout_marginBottom = "10dp"
+            android:onClick = "cityNameClick"
+            android:tag = "2"
+            android:text = "Button"
+            app:layout_constraintBottom_toTopOf = "@+id/buttonCityName_1"
+            app:layout_constraintEnd_toEndOf = "parent"
+            app:layout_constraintStart_toStartOf = "parent" />
+
+        <Button
+            android:id = "@+id/buttonCityName_1"
+            android:layout_width = "0dp"
+            android:layout_height = "wrap_content"
+            android:layout_marginStart = "10dp"
+            android:layout_marginEnd = "10dp"
+            android:layout_marginBottom = "10dp"
+            android:onClick = "cityNameClick"
+            android:tag = "1"
+            android:text = "Button"
+            app:layout_constraintBottom_toTopOf = "@+id/buttonCityName_0"
+            app:layout_constraintEnd_toEndOf = "parent"
+            app:layout_constraintStart_toStartOf = "parent" />
+
+        <Button
+            android:id = "@+id/buttonCityName_0"
+            android:layout_width = "0dp"
+            android:layout_height = "wrap_content"
+            android:layout_marginStart = "10dp"
+            android:layout_marginEnd = "10dp"
+            android:layout_marginBottom = "10dp"
+            android:onClick = "cityNameClick"
+            android:tag = "0"
+            android:text = "Button"
+            app:layout_constraintBottom_toBottomOf = "parent"
+            app:layout_constraintEnd_toEndOf = "parent"
+            app:layout_constraintStart_toStartOf = "parent" />
+
+        <ImageView
+            android:id = "@+id/imageViewCity"
+            android:layout_width = "489dp"
+            android:layout_height = "312dp"
+            android:foregroundGravity = "fill_horizontal"
+            app:layout_constraintEnd_toEndOf = "parent"
+            app:layout_constraintStart_toStartOf = "parent"
+            app:layout_constraintTop_toTopOf = "parent"
+            app:srcCompat = "@drawable/san" />
+
+        <TextView
+            android:id = "@+id/textViewScore"
+            android:layout_width = "0dp"
+            android:layout_height = "wrap_content"
+            android:layout_marginBottom = "21dp"
+            android:gravity = "center"
+            android:text = "0/0"
+            android:textColor = "#00BCD4"
+            android:textSize = "24sp"
+            app:layout_constraintBottom_toTopOf = "@+id/buttonCityName_3"
+            app:layout_constraintEnd_toEndOf = "parent"
+            app:layout_constraintStart_toStartOf = "parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

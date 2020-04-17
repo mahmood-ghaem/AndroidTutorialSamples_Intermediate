@@ -6,9 +6,11 @@ I'm going to publish some Intermediate Android project in this repository. I hop
 
 Sample projects:
 
-[1 - CountDownTimerDemo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/1-CountDownTimer-Demo)
+[1 - CountDown Timer Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/1-CountDownTimer-Demo)
 
-[2 - BrainTrainer](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/2-Brain-Trainer)
+[2 - Brain Trainer](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/2-Brain-Trainer)
+
+[3 - Guess Cities](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/3-Guess-Cities)
 
 
 I would be happy to know your feedback and help me to develop these examples.
