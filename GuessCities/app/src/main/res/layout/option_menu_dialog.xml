@@ -10,7 +10,7 @@
         android:layout_height = "wrap_content"
         android:layout_marginBottom = "8dp"
         android:padding = "10dp"
-        android:text = "Tutorial 02"
+        android:text = "Tutorial 03"
         android:textSize = "24sp" />
 
     <TextView
