@@ -17,6 +17,9 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.regex.Matcher;
@@ -34,6 +37,9 @@ import java.util.regex.Pattern;
  * 9 - create option_menu_dialog.xml
  * 10 - write showAboutDialog method
  * 11 - write showExitDialog method
+ * 12 - create ReadFromFile class
+ * 13 - change to use read from assets
+ * 14 - add cities.txt to assets folder
  */
 public class MainActivity extends AppCompatActivity
 {
@@ -67,13 +73,16 @@ public class MainActivity extends AppCompatActivity
         textViewScore = findViewById(R.id.textViewScore);
 
 
-        HtmlDownloader htmlDownloader = new HtmlDownloader();
+        //HtmlDownloader htmlDownloader = new HtmlDownloader();
+        ReadFromfile readFromfile = new ReadFromfile();
         String result = null;
+        //source web page :
         //https://www.cntraveler.com/galleries/2016-01-08/the-50-most-beautiful-cities-in-the-world
+        //I create a small web page and upload to my host
         try {
 
-            result = htmlDownloader.execute("http://ghaem.atwebpages.com/cities.html").get();
-
+            //result = htmlDownloader.execute("http://ghaem.atwebpages.com/cities.html").get();
+            result = readFromfile.ReadFromfile("cities.txt",context);
             String[] splitResult = result.split("<body>");
 
             Pattern p = Pattern.compile("src=\"(.*?)\"");
@@ -214,4 +223,6 @@ public class MainActivity extends AppCompatActivity
 
         alertDialog.show();
     }
+
+
 }
