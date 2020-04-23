@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "help_text">
+        You can select cities by long press on map and add them to list then change option to view weather and press a city in list.
+    </string>
+</resources>

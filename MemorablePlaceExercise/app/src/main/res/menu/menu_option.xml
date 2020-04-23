@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android = "http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/save"
+        android:title="Save Cities"/>
+    <item android:id="@+id/clear"
+        android:title="Clear List"/>
+    <item android:id="@+id/help"
+        android:title="Help"/>
+    <item android:id="@+id/about"
+        android:title="About"/>
+    <item android:id="@+id/exit"
+        android:title="Exit"/>
+</menu>

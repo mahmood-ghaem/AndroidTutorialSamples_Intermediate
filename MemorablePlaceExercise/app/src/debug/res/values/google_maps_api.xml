@@ -1,0 +1,4 @@
+<resources>
+    <!-- TODO (1) input your google map key here-->
+    <string name = "google_maps_key" templateMergeStrategy = "preserve" translatable = "false">Place your google map key here</string>
+</resources>

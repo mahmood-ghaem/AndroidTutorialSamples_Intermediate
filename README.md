@@ -12,6 +12,9 @@ Sample projects:
 
 [3 - Guess Cities](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/3-Guess-Cities)
 
+[4 - Memorable Place Exercise](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/4-Memorable-Place-Exercise)
+
+
 
 I would be happy to know your feedback and help me to develop these examples.
 
