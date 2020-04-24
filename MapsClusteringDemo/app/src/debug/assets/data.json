@@ -1,0 +1,1308 @@
+
+[
+   {
+      "places":"Your Current Location",
+      "latitude":0,
+      "longitude":0
+   },
+   {
+      "places":"77 Mathildelaan Eindhoven",
+      "latitude":51.441563530368335,
+      "longitude":5.4695673286914825
+   },
+   {
+      "places":"49 Rechtestraat Eindhoven",
+      "latitude":51.43787673361084,
+      "longitude":5.479279942810535
+   },
+   {
+      "places":"2 Emmasingel Eindhoven",
+      "latitude":51.44013658033702,
+      "longitude":5.475092679262161
+   },
+   {
+      "places":"8 Stationsweg Eindhoven",
+      "latitude":51.441644824216745,
+      "longitude":5.480913072824477
+   },
+   {
+      "places":"3 Stadhuisplein Eindhoven",
+      "latitude":51.43542866657563,
+      "longitude":5.48173014074564
+   },
+   {
+      "places":"74 Christinastraat Eindhoven",
+      "latitude":51.4287218835321,
+      "longitude":5.461197160184383
+   },
+   {
+      "places":"115a Hastelweg Eindhoven",
+      "latitude":51.43585629877295,
+      "longitude":5.4516176506876945
+   },
+   {
+      "places":"63 Gagelstraat Eindhoven",
+      "latitude":51.43995998485605,
+      "longitude":5.467710234224796
+   },
+   {
+      "places":"67 Willemstraat Eindhoven",
+      "latitude":51.43835533806038,
+      "longitude":5.469540171325207
+   },
+   {
+      "places":"7 Langdonkenstraat Eindhoven",
+      "latitude":51.43995998485605,
+      "longitude":5.46490665525198
+   },
+   {
+      "places":"10A Frederiklaan Eindhoven",
+      "latitude":51.44195432466497,
+      "longitude":5.467385686933994
+   },
+   {
+      "places":"28 De Jonghlaan Eindhoven",
+      "latitude":51.44319606702161,
+      "longitude":5.463208481669426
+   },
+   {
+      "places":"143 Gerard Philipslaan Eindhoven",
+      "latitude":51.44370449873881,
+      "longitude":5.464150942862033
+   },
+   {
+      "places":"82 Plataanlaan Eindhoven",
+      "latitude":51.44214930260103,
+      "longitude":5.456516370177269
+   },
+   {
+      "places":"162 Schootsestraat Eindhoven",
+      "latitude":51.44212944958021,
+      "longitude":5.455605424940586
+   },
+   {
+      "places":"208 Strijpsestraat Eindhoven",
+      "latitude":51.44103354944501,
+      "longitude":5.4529919475317
+   },
+   {
+      "places":"157 Strijpsestraat Eindhoven",
+      "latitude":51.440480573834144,
+      "longitude":5.452888682484627
+   },
+   {
+      "places":"42 Bredalaan Eindhoven",
+      "latitude":51.438868630534216,
+      "longitude":5.442534349858761
+   },
+   {
+      "places":"9 Sint Theresiaplein Eindhoven",
+      "latitude":51.43870582381476,
+      "longitude":5.440672896802425
+   },
+   {
+      "places":"85 Struyckenstraat Eindhoven",
+      "latitude":51.43950041542755,
+      "longitude":5.441132560372353
+   },
+   {
+      "places":"23 Noord Brabantlaan Eindhoven",
+      "latitude":51.442650431783655,
+      "longitude":5.440799966454506
+   },
+   {
+      "places":"5 Lievendaalseweg Eindhoven",
+      "latitude":51.44232296392038,
+      "longitude":5.434186644852161
+   },
+   {
+      "places":"169 Bredalaan Eindhoven",
+      "latitude":51.440209935182224,
+      "longitude":5.4353587701916695
+   },
+   {
+      "places":"44A Hurksestraat Eindhoven",
+      "latitude":51.43590207148356,
+      "longitude":5.429294295608997
+   },
+   {
+      "places":"267 Noord Brabantlaan Eindhoven",
+      "latitude":51.436652402986816,
+      "longitude":5.429294295608997
+   },
+   {
+      "places":"48 Hurksestraat Eindhoven",
+      "latitude":51.43710175996394,
+      "longitude":5.428541935980319
+   },
+   {
+      "places":"27 Hurksestraat Eindhoven",
+      "latitude":51.43547234961809,
+      "longitude":5.428114123642445
+   },
+   {
+      "places":"19A Hurksestraat Eindhoven",
+      "latitude":51.43400256995637,
+      "longitude":5.432231649756432
+   },
+   {
+      "places":"23BIS Choorstraat Utrecht",
+      "latitude":52.09069248664274,
+      "longitude":5.119808949530125
+   },
+   {
+      "places":"22 Vismarkt Utrecht",
+      "latitude":52.09059463742034,
+      "longitude":5.120474137365818
+   },
+   {
+      "places":"2 Lijnmarkt Utrecht",
+      "latitude":52.0903295164489,
+      "longitude":5.120233744382858
+   },
+   {
+      "places":"18BIS Vismarkt Utrecht",
+      "latitude":52.09083153516857,
+      "longitude":5.120539851486683
+   },
+   {
+      "places":"7 Choorstraat Utrecht",
+      "latitude":52.091256505977036,
+      "longitude":5.119650028645993
+   },
+   {
+      "places":"6 Steenweg Utrecht",
+      "latitude":52.090876236602604,
+      "longitude":5.119568556547165
+   },
+   {
+      "places":"9 Domplein Utrecht",
+      "latitude":52.091059779809314,
+      "longitude":5.121029689908028
+   },
+   {
+      "places":"7BIS Lichte Gaard Utrecht",
+      "latitude":52.09021745240997,
+      "longitude":5.120714865624904
+   },
+   {
+      "places":"8b Lijnmarkt Utrecht",
+      "latitude":52.09014123222269,
+      "longitude":5.120278000831604
+   },
+   {
+      "places":"4B Donkere Gaard Utrecht",
+      "latitude":52.09000753757971,
+      "longitude":5.121006891131401
+   },
+   {
+      "places":"11 Vismarkt Utrecht",
+      "latitude":52.09104247610488,
+      "longitude":5.1203132048249245
+   },
+   {
+      "places":"5 Oudkerkhof Utrecht",
+      "latitude":52.09162667841431,
+      "longitude":5.120159983634949
+   },
+   {
+      "places":"21 Domplein Utrecht",
+      "latitude":52.090753874045326,
+      "longitude":5.121334120631218
+   },
+   {
+      "places":"17 Domplein Utrecht",
+      "latitude":52.09079507359705,
+      "longitude":5.120831541717052
+   },
+   {
+      "places":"Utrecht",
+      "latitude":52.09088859643821,
+      "longitude":5.121933594346046
+   },
+   {
+      "places":"2 Korte Minrebroederstraat Utrecht",
+      "latitude":52.09177458173476,
+      "longitude":5.119759999215603
+   },
+   {
+      "places":"165 Oudegracht Utrecht",
+      "latitude":52.09158115375598,
+      "longitude":5.119124986231328
+   },
+   {
+      "places":"7 Lijnmarkt Utrecht",
+      "latitude":52.09007098593479,
+      "longitude":5.120090916752815
+   },
+   {
+      "places":"20 Zadelstraat Utrecht",
+      "latitude":52.09005265184147,
+      "longitude":5.119294635951518
+   },
+   {
+      "places":"23 Zadelstraat Utrecht",
+      "latitude":52.09022322041886,
+      "longitude":5.119294635951518
+   },
+   {
+      "places":"17 Lijnmarkt Utrecht",
+      "latitude":52.08986004040559,
+      "longitude":5.120250172913074
+   },
+   {
+      "places":"39A Lijnmarkt Utrecht",
+      "latitude":52.08938952940179,
+      "longitude":5.120710171759129
+   },
+   {
+      "places":"75C Visschersplein Utrecht",
+      "latitude":52.08946307282367,
+      "longitude":5.119207128882409
+   },
+   {
+      "places":"30 Zadelstraat Utrecht",
+      "latitude":52.089925136983894,
+      "longitude":5.118936561048031
+   },
+   {
+      "places":"21 Mariaplaats Utrecht",
+      "latitude":52.08981739797528,
+      "longitude":5.118563063442706
+   },
+   {
+      "places":"50 Mariaplaats Utrecht",
+      "latitude":52.08949459139592,
+      "longitude":5.118242874741554
+   },
+   {
+      "places":"10 Springweg Utrecht",
+      "latitude":52.08899791378923,
+      "longitude":5.118455439805985
+   },
+   {
+      "places":"12BIS Springweg Utrecht",
+      "latitude":52.088845675124645,
+      "longitude":5.118607319891452
+   },
+   {
+      "places":"43 Strosteeg Utrecht",
+      "latitude":52.08873813951675,
+      "longitude":5.119389519095422
+   },
+   {
+      "places":"15 Springweg Utrecht",
+      "latitude":52.08866191680251,
+      "longitude":5.118556022644044
+   },
+   {
+      "places":"7 Springweg Utrecht",
+      "latitude":52.08895341647956,
+      "longitude":5.1182059943675995
+   },
+   {
+      "places":"1 Dam Amsterdam",
+      "latitude":52.37364525609064,
+      "longitude":4.8944681882858285
+   },
+   {
+      "places":"64 Damrak Amsterdam",
+      "latitude":52.3748389877928,
+      "longitude":4.8949529975652695
+   },
+   {
+      "places":"23 Dam Amsterdam",
+      "latitude":52.372695487656046,
+      "longitude":4.89260371774435
+   },
+   {
+      "places":"189D Oudezijds Voorburgwal Amsterdam",
+      "latitude":52.37159606425048,
+      "longitude":4.895720109343529
+   },
+   {
+      "places":"4 Sint Barberenstraat Amsterdam",
+      "latitude":52.37012179911215,
+      "longitude":4.8935964703559875
+   },
+   {
+      "places":"27 Turfdraagsterpad Amsterdam",
+      "latitude":52.36887287258168,
+      "longitude":4.8929570987820625
+   },
+   {
+      "places":"22 Nieuwe Doelenstraat Amsterdam",
+      "latitude":52.36811174907888,
+      "longitude":4.895439483225346
+   },
+   {
+      "places":"10 Jonge Roelensteeg Amsterdam",
+      "latitude":52.37213196237697,
+      "longitude":4.891262948513032
+   },
+   {
+      "places":"74 Rokin Amsterdam",
+      "latitude":52.370307261997695,
+      "longitude":4.8920780047774315
+   },
+   {
+      "places":"Amsterdam",
+      "latitude":52.36958505776413,
+      "longitude":4.892142042517662
+   },
+   {
+      "places":"7 Pieter Jacobszstraat Amsterdam",
+      "latitude":52.37199645322811,
+      "longitude":4.894231483340263
+   },
+   {
+      "places":"9 Dam Amsterdam",
+      "latitude":52.37268279664642,
+      "longitude":4.895089119672775
+   },
+   {
+      "places":"17 Rokin Amsterdam",
+      "latitude":52.37187609127895,
+      "longitude":4.893330931663513
+   },
+   {
+      "places":"9 Enge Lombardsteeg Amsterdam",
+      "latitude":52.370884116193736,
+      "longitude":4.894162081182003
+   },
+   {
+      "places":"164 Oudezijds Voorburgwal Amsterdam",
+      "latitude":52.37322932553121,
+      "longitude":4.896186478435993
+   },
+   {
+      "places":"5 Gravenstraat Amsterdam",
+      "latitude":52.374250313434395,
+      "longitude":4.892713017761707
+   },
+   {
+      "places":"190 Nieuwendijk Amsterdam",
+      "latitude":52.374569213800044,
+      "longitude":4.893810711801052
+   },
+   {
+      "places":"5HS Beursplein Amsterdam",
+      "latitude":52.37427651329449,
+      "longitude":4.896165356040001
+   },
+   {
+      "places":"185 Oudezijds Achterburgwal Amsterdam",
+      "latitude":52.3707117567157,
+      "longitude":4.896383620798588
+   },
+   {
+      "places":"7I Koestraat Amsterdam",
+      "latitude":52.372193371219936,
+      "longitude":4.898376166820526
+   },
+   {
+      "places":"69B Oudezijds Achterburgwal Amsterdam",
+      "latitude":52.372957699473886,
+      "longitude":4.898754358291626
+   },
+   {
+      "places":"38 Kloveniersburgwal Amsterdam",
+      "latitude":52.3713737608278,
+      "longitude":4.898333586752415
+   },
+   {
+      "places":"3 Korte Spinhuissteeg Amsterdam",
+      "latitude":52.37061268041678,
+      "longitude":4.897566139698029
+   },
+   {
+      "places":"26 Zandstraat Amsterdam",
+      "latitude":52.36996867905687,
+      "longitude":4.89971861243248
+   },
+   {
+      "places":"64 Sint Antoniesbreestraat Amsterdam",
+      "latitude":52.37105504209029,
+      "longitude":4.900070317089558
+   },
+   {
+      "places":"18 Nieuwmarkt Amsterdam",
+      "latitude":52.37230083648968,
+      "longitude":4.899851717054844
+   },
+   {
+      "places":"4 Molensteeg Amsterdam",
+      "latitude":52.37345202899509,
+      "longitude":4.899606630206108
+   },
+   {
+      "places":"73 \/3 Oudezijds Voorburgwal Amsterdam",
+      "latitude":52.37394962798944,
+      "longitude":4.898727536201477
+   },
+   {
+      "places":"2 Oosterdwarsstraat Leiden",
+      "latitude":52.15695649023145,
+      "longitude":4.505331628024578
+   },
+   {
+      "places":"5 Oranjegracht Leiden",
+      "latitude":52.15695649023145,
+      "longitude":4.501083679497242
+   },
+   {
+      "places":"99C Zoeterwoudsesingel Leiden",
+      "latitude":52.154551885026436,
+      "longitude":4.504019692540169
+   },
+   {
+      "places":"25 Krefeldlaan Leiden",
+      "latitude":52.159560475622904,
+      "longitude":4.514785073697567
+   },
+   {
+      "places":"52 Groenesteeg Leiden",
+      "latitude":52.1579536742002,
+      "longitude":4.498470202088356
+   },
+   {
+      "places":"33F Oude Rijn Leiden",
+      "latitude":52.159560475622904,
+      "longitude":4.493253976106644
+   },
+   {
+      "places":"4 Jan van Houtkade Leiden",
+      "latitude":52.15375416095415,
+      "longitude":4.490317963063717
+   },
+   {
+      "places":"8A Cronesteinkade Leiden",
+      "latitude":52.152147149925675,
+      "longitude":4.498470202088356
+   },
+   {
+      "places":"77 De Goejestraat Leiden",
+      "latitude":52.152147149925675,
+      "longitude":4.510547518730164
+   },
+   {
+      "places":"10 Nijenrode Leiderdorp",
+      "latitude":52.154551885026436,
+      "longitude":4.522625170648098
+   },
+   {
+      "places":"4 Duit Leiderdorp",
+      "latitude":52.163559949839545,
+      "longitude":4.53077707439661
+   },
+   {
+      "places":"38 Kort Galgewater Leiden",
+      "latitude":52.16115570137235,
+      "longitude":4.4824885949492455
+   },
+   {
+      "places":"118 De Genestetstraat Leiden",
+      "latitude":52.15615901494575,
+      "longitude":4.476939104497433
+   },
+   {
+      "places":"1 Staalwijkstraat Leiden",
+      "latitude":52.15035225656505,
+      "longitude":4.486403279006481
+   },
+   {
+      "places":"7 Van Den Brandelerkade Leiden",
+      "latitude":52.15035225656505,
+      "longitude":4.498470202088356
+   },
+   {
+      "places":"34 Jupiterlaan Leiden",
+      "latitude":52.14794708887863,
+      "longitude":4.510547518730164
+   },
+   {
+      "places":"39 Professorenpad Leiden",
+      "latitude":52.14633986823361,
+      "longitude":4.498470202088356
+   },
+   {
+      "places":"15 Pompoenweg Leiden",
+      "latitude":52.14714945219212,
+      "longitude":4.487704820930957
+   },
+   {
+      "places":"90 Viaductweg Den Haag",
+      "latitude":52.058710120489245,
+      "longitude":4.307648465037346
+   },
+   {
+      "places":"89 Jacob Schorerlaan Den Haag",
+      "latitude":52.060320708304296,
+      "longitude":4.302421845495701
+   },
+   {
+      "places":"50 Kaapstraat Den Haag",
+      "latitude":52.06452882408918,
+      "longitude":4.294269606471062
+   },
+   {
+      "places":"229 Steijnlaan Den Haag",
+      "latitude":52.06773756800272,
+      "longitude":4.287418909370898
+   },
+   {
+      "places":"112 Viljoenstraat Den Haag",
+      "latitude":52.06191928245409,
+      "longitude":4.291656129062176
+   },
+   {
+      "places":"20 Vier Heemskinderenstraat Den Haag",
+      "latitude":52.056300211509246,
+      "longitude":4.299808368086814
+   },
+   {
+      "places":"22 Willem de Clercqstraat Den Haag",
+      "latitude":52.05709947460184,
+      "longitude":4.3144991621375075
+   },
+   {
+      "places":"4 Verheeskade Den Haag",
+      "latitude":52.06532814606898,
+      "longitude":4.321349859237671
+   },
+   {
+      "places":"28 Nieuwe Schoolstraat Den Haag",
+      "latitude":52.085187670880295,
+      "longitude":4.310584478080273
+   },
+   {
+      "places":"68 Noordeinde Den Haag",
+      "latitude":52.08178052936181,
+      "longitude":4.30503498762846
+   },
+   {
+      "places":"68 Noordeinde Den Haag",
+      "latitude":52.08178052936181,
+      "longitude":4.30503498762846
+   },
+   {
+      "places":"26 Smidswater Den Haag",
+      "latitude":52.08437716687017,
+      "longitude":4.3144991621375075
+   },
+   {
+      "places":"43D Spui Den Haag",
+      "latitude":52.07776196439079,
+      "longitude":4.3144991621375075
+   },
+   {
+      "places":"20A Herderinnestraat Den Haag",
+      "latitude":52.07355509556804,
+      "longitude":4.308949671685695
+   },
+   {
+      "places":"8 Asmansweg Den Haag",
+      "latitude":52.07355509556804,
+      "longitude":4.290354922413825
+   },
+   {
+      "places":"449 Waldeck Pyrmontkade Den Haag",
+      "latitude":52.080170715437006,
+      "longitude":4.290354922413825
+   },
+   {
+      "places":"22 Hoge Morsweg Leiden",
+      "latitude":52.152502211374255,
+      "longitude":4.462062232196331
+   },
+   {
+      "places":"64 Joke Smitstraat Leiden",
+      "latitude":52.14804193201183,
+      "longitude":4.452521279454231
+   },
+   {
+      "places":"5 Haagweg Voorschoten",
+      "latitude":52.14330323146789,
+      "longitude":4.442980661988258
+   },
+   {
+      "places":"33 Papeweg Wassenaar",
+      "latitude":52.13660313398994,
+      "longitude":4.417083933949471
+   },
+   {
+      "places":"Wassenaar",
+      "latitude":52.12962396886135,
+      "longitude":4.4016266986727715
+   },
+   {
+      "places":"234 Papelaan-West Voorschoten",
+      "latitude":52.12962396886135,
+      "longitude":4.4279877841472635
+   },
+   {
+      "places":"6 Nieuwe Weg Voorschoten",
+      "latitude":52.13884203056736,
+      "longitude":4.442980661988258
+   },
+   {
+      "places":"130 Cornelis Schuytlaan Leiden",
+      "latitude":52.149152877748435,
+      "longitude":4.471153914928436
+   },
+   {
+      "places":"6 Nieuwe Weg Voorschoten",
+      "latitude":52.139953411601816,
+      "longitude":4.441168159246445
+   },
+   {
+      "places":"109 Papelaan-West Voorschoten",
+      "latitude":52.12962396886135,
+      "longitude":4.426160529255867
+   },
+   {
+      "places":"6 Raaphorst Wassenaar",
+      "latitude":52.126289381038745,
+      "longitude":4.4016266986727715
+   },
+   {
+      "places":"11 Raaphorstlaan Wassenaar",
+      "latitude":52.1181967040638,
+      "longitude":4.388910681009293
+   },
+   {
+      "places":"823 Rijksstraatweg Wassenaar",
+      "latitude":52.10647224272432,
+      "longitude":4.360737428069115
+   },
+   {
+      "places":"51 Leidsestraatweg Den Haag",
+      "latitude":52.09865422217674,
+      "longitude":4.349369220435619
+   },
+   {
+      "places":"236 Juliana van Stolberglaan Den Haag",
+      "latitude":52.08469939239289,
+      "longitude":4.341640770435333
+   },
+   {
+      "places":"97B Bezuidenhoutseweg Den Haag",
+      "latitude":52.08469939239289,
+      "longitude":4.328924752771854
+   },
+   {
+      "places":"103 Het Kerkehout Wassenaar",
+      "latitude":52.10647224272432,
+      "longitude":4.381182231009006
+   },
+   {
+      "places":"25 Verlengde Wittelaan Wassenaar",
+      "latitude":52.10536023236908,
+      "longitude":4.373903051018716
+   },
+   {
+      "places":"246 Hongarenburg Den Haag",
+      "latitude":52.091669113121874,
+      "longitude":4.364362098276615
+   },
+   {
+      "places":"34D Binckhorstlaan Den Haag",
+      "latitude":52.075486409771955,
+      "longitude":4.3343766778707495
+   },
+   {
+      "places":"3071 Parallelweg Den Haag",
+      "latitude":52.0662552427095,
+      "longitude":4.315744377672673
+   },
+   {
+      "places":"1 Piet Heinplein Den Haag",
+      "latitude":52.08245777533683,
+      "longitude":4.300751499831677
+   },
+   {
+      "places":"178 Beeklaan Den Haag",
+      "latitude":52.073244329994886,
+      "longitude":4.281654842197895
+   },
+   {
+      "places":"54 Trooststraat Den Haag",
+      "latitude":52.06514222975273,
+      "longitude":4.302563667297363
+   },
+   {
+      "places":"1 Oude Middenweg Den Haag",
+      "latitude":52.07100213761839,
+      "longitude":4.399814531207085
+   },
+   {
+      "places":"Duinwaterpad Leidschendam",
+      "latitude":52.096135243417194,
+      "longitude":4.429799951612949
+   },
+   {
+      "places":"Amerikaweg Zoetermeer",
+      "latitude":52.064028982935376,
+      "longitude":4.46570198982954
+   },
+   {
+      "places":"Australiëweg Zoetermeer",
+      "latitude":52.064028982935376,
+      "longitude":4.50115442276001
+   },
+   {
+      "places":"1 Slootweg Zoetermeer",
+      "latitude":52.08357035669859,
+      "longitude":4.5256879180669785
+   },
+   {
+      "places":"9 Emmaushof Zoeterwoude",
+      "latitude":52.1181967040638,
+      "longitude":4.495687410235405
+   },
+   {
+      "places":"Weegpad Leidschendam",
+      "latitude":52.11121486146258,
+      "longitude":4.4561610370874405
+   },
+   {
+      "places":"31 Huyssitterweg Leidschendam",
+      "latitude":52.09754201687693,
+      "longitude":4.459800459444523
+   },
+   {
+      "places":"Westeinde Leidschendam",
+      "latitude":52.10647224272432,
+      "longitude":4.477069862186909
+   },
+   {
+      "places":"56 Stompwijkseweg Leidschendam",
+      "latitude":52.08944412046883,
+      "longitude":4.437528736889362
+   },
+   {
+      "places":"Leidschendam",
+      "latitude":52.06877611448848,
+      "longitude":4.420708604156971
+   },
+   {
+      "places":"5 Prinses Catharina-Amaliastraat Den Haag",
+      "latitude":52.05703845321401,
+      "longitude":4.382994398474693
+   },
+   {
+      "places":"3 Sportring Delft",
+      "latitude":52.02824644371589,
+      "longitude":4.368001855909824
+   },
+   {
+      "places":"47 Willemstraat Delft",
+      "latitude":52.01090987626991,
+      "longitude":4.349369220435619
+   },
+   {
+      "places":"64 Hendrick de Keyserweg Delft",
+      "latitude":52.0134338710986,
+      "longitude":4.373903051018716
+   },
+   {
+      "places":"24 Laan van Overvest Delft",
+      "latitude":52.012319335789385,
+      "longitude":4.351181723177433
+   },
+   {
+      "places":"44 Annette Versluyspad Amsterdam",
+      "latitude":52.34734898380699,
+      "longitude":4.828413762152195
+   },
+   {
+      "places":"37 Zutendaalstraat Amsterdam",
+      "latitude":52.34847133451147,
+      "longitude":4.815233051776886
+   },
+   {
+      "places":"22 Meer en Vaart Amsterdam",
+      "latitude":52.36567659802926,
+      "longitude":4.803879931569099
+   },
+   {
+      "places":"90 H. Gerhardstraat Amsterdam",
+      "latitude":52.35126541341014,
+      "longitude":4.802052341401577
+   },
+   {
+      "places":"235I Valeriusstraat Amsterdam",
+      "latitude":52.35126541341014,
+      "longitude":4.858398847281933
+   },
+   {
+      "places":"26I Kromme Mijdrechtstraat Amsterdam",
+      "latitude":52.34542597035304,
+      "longitude":4.908829070627689
+   },
+   {
+      "places":"5HS Steve Bikoplein Amsterdam",
+      "latitude":52.35570530695087,
+      "longitude":4.923836700618267
+   },
+   {
+      "places":"25 Eerste Hugo de Grootstraat Amsterdam",
+      "latitude":52.37624043512135,
+      "longitude":4.873391725122929
+   },
+   {
+      "places":"28 Raphaëlplein Amsterdam",
+      "latitude":52.34765456094581,
+      "longitude":4.869751967489719
+   },
+   {
+      "places":"241 Nieuwemeerdijk Badhoevedorp",
+      "latitude":52.330442075525674,
+      "longitude":4.8079535365104675
+   },
+   {
+      "places":"E19 Schiphol",
+      "latitude":52.308642821277516,
+      "longitude":4.746488370001317
+   },
+   {
+      "places":"13 Verisstraat Hoofddorp",
+      "latitude":52.29947613667986,
+      "longitude":4.710586667060852
+   },
+   {
+      "places":"1148 Hoofdweg Oostzijde Nieuw-Vennep",
+      "latitude":52.27307275138461,
+      "longitude":4.648788236081601
+   },
+   {
+      "places":"Unnamed Road Abbenes",
+      "latitude":52.244420155796064,
+      "longitude":4.585162550210953
+   },
+   {
+      "places":"Warmond",
+      "latitude":52.205437395085816,
+      "longitude":4.541996419429779
+   },
+   {
+      "places":"Dwarsweg Nieuwe Wetering",
+      "latitude":52.20321808021749,
+      "longitude":4.60743460804224
+   },
+   {
+      "places":"55 Herenweg Rijnsaterwoude",
+      "latitude":52.20321808021749,
+      "longitude":4.669232703745365
+   },
+   {
+      "places":"Leimuiden",
+      "latitude":52.22716750767833,
+      "longitude":4.714675359427929
+   },
+   {
+      "places":"16 Apollostraat Aalsmeer",
+      "latitude":52.25359823331311,
+      "longitude":4.759668745100498
+   },
+   {
+      "places":"30 Kerkweg Aalsmeer",
+      "latitude":52.28335249504993,
+      "longitude":4.800558015704155
+   },
+   {
+      "places":"Spoorlaan Hoofddorp",
+      "latitude":52.284460266736616,
+      "longitude":4.676961489021778
+   },
+   {
+      "places":"Leimuiderweg Nieuw-Vennep",
+      "latitude":52.24329516518784,
+      "longitude":4.652427658438683
+   },
+   {
+      "places":"Unnamed Road Rijsenhout",
+      "latitude":52.27084060805045,
+      "longitude":4.708774164319038
+   },
+   {
+      "places":"67 Venneperweg Burgerveen",
+      "latitude":52.24552890056595,
+      "longitude":4.673321731388569
+   },
+   {
+      "places":"5 Pastoor Schramaweg Oud Ade",
+      "latitude":52.190683374059404,
+      "longitude":4.562441222369671
+   },
+   {
+      "places":"184 Dijkwacht Leiderdorp",
+      "latitude":52.17563064542168,
+      "longitude":4.536544494330883
+   },
+   {
+      "places":"Veldhuizenpad Alphen aan den Rijn",
+      "latitude":52.1480425492116,
+      "longitude":4.697405956685543
+   },
+   {
+      "places":"Unnamed Road Woerdense Verlaat",
+      "latitude":52.1619775617384,
+      "longitude":4.86054427921772
+   },
+   {
+      "places":"9A Provincialeweg Mijdrecht",
+      "latitude":52.21796773525266,
+      "longitude":4.879625849425793
+   },
+   {
+      "places":"25 Zandvoortselaan Heemstede",
+      "latitude":52.35890332667397,
+      "longitude":4.615163058042526
+   },
+   {
+      "places":"25 Van der Aartweg Haarlem",
+      "latitude":52.42408031889099,
+      "longitude":4.654240161180496
+   },
+   {
+      "places":"Assendelft",
+      "latitude":52.475588305265696,
+      "longitude":4.7555797174572945
+   },
+   {
+      "places":"Spaarndammerdijk Halfweg",
+      "latitude":52.39885618471092,
+      "longitude":4.723767042160034
+   },
+   {
+      "places":"142 Mient Vijfhuizen",
+      "latitude":52.35335773373894,
+      "longitude":4.686502106487751
+   },
+   {
+      "places":"20 Bennebroekerdijk Zwaanshoek",
+      "latitude":52.31447051968596,
+      "longitude":4.611523300409317
+   },
+   {
+      "places":"10 Noorderlaan Hillegom",
+      "latitude":52.30753565428743,
+      "longitude":4.581537880003452
+   },
+   {
+      "places":"1 Ruigenhoekerweg Noordwijkerhout",
+      "latitude":52.29141515200568,
+      "longitude":4.523364119231701
+   },
+   {
+      "places":"Noordwijkerhout",
+      "latitude":52.268608352315255,
+      "longitude":4.521087594330311
+   },
+   {
+      "places":"Unnamed Road Wijk bij Duurstede",
+      "latitude":51.95814044456623,
+      "longitude":5.32992985099554
+   },
+   {
+      "places":"6 Honddijk Culemborg",
+      "latitude":51.96123328301587,
+      "longitude":5.246811211109161
+   },
+   {
+      "places":"13 Tienhovenseweg Everdingen",
+      "latitude":51.95814044456623,
+      "longitude":5.1422690972685805
+   },
+   {
+      "places":"38B Kom Lekdijk Lexmond",
+      "latitude":51.96741831979156,
+      "longitude":5.032661631703377
+   },
+   {
+      "places":"Kadijk Bergambacht",
+      "latitude":51.95113542000574,
+      "longitude":4.804686941206454
+   },
+   {
+      "places":"9 Wetering West Lekkerkerk",
+      "latitude":51.90685047583313,
+      "longitude":4.669878110289574
+   },
+   {
+      "places":"54D Scheepmakershaven Rotterdam",
+      "latitude":51.91618445904539,
+      "longitude":4.487240798771381
+   },
+   {
+      "places":"Berenplaat Spijkenisse",
+      "latitude":51.83297562555853,
+      "longitude":4.425503723323345
+   },
+   {
+      "places":"21 Heijplaatweg Rotterdam",
+      "latitude":51.900657084087285,
+      "longitude":4.43056907504797
+   },
+   {
+      "places":"163 Houdringeweg Rotterdam",
+      "latitude":51.896740367741266,
+      "longitude":4.565335996448994
+   },
+   {
+      "places":"Kalmoeslaantje Zevenhuizen",
+      "latitude":51.99614915761171,
+      "longitude":4.575424790382385
+   },
+   {
+      "places":"Zevende Tochtweg Waddinxveen",
+      "latitude":52.044204999355095,
+      "longitude":4.622008055448532
+   },
+   {
+      "places":"Unnamed Road Bodegraven",
+      "latitude":52.0952925998849,
+      "longitude":4.753038659691811
+   },
+   {
+      "places":"Reeuwijk",
+      "latitude":52.053510203269276,
+      "longitude":4.705168269574642
+   },
+   {
+      "places":"Kamerik",
+      "latitude":52.12085977344179,
+      "longitude":4.871447458863258
+   },
+   {
+      "places":"26 Laag-Nieuwkoop Kockengen",
+      "latitude":52.130103934662856,
+      "longitude":4.975989572703838
+   },
+   {
+      "places":"Linschoten",
+      "latitude":52.06975610594022,
+      "longitude":4.949542656540871
+   },
+   {
+      "places":"Montfoort",
+      "latitude":52.018639276852056,
+      "longitude":4.924341626465321
+   },
+   {
+      "places":"Nieuwerbrug aan den Rijn",
+      "latitude":52.07284123827032,
+      "longitude":4.804686941206454
+   },
+   {
+      "places":"101-E Proostwetering Utrecht",
+      "latitude":52.11465063868358,
+      "longitude":5.038972534239292
+   },
+   {
+      "places":"Almere",
+      "latitude":52.33993460912148,
+      "longitude":5.132180303335191
+   },
+   {
+      "places":"62 Gein Noord Abcoude",
+      "latitude":52.29219748776848,
+      "longitude":5.002436488866806
+   },
+   {
+      "places":"67 Meerweg Bussum",
+      "latitude":52.27680046735941,
+      "longitude":5.1422690972685805
+   },
+   {
+      "places":"95 Barchman Wuytierslaan Amersfoort",
+      "latitude":52.15873034326732,
+      "longitude":5.345042757689953
+   },
+   {
+      "places":"20 Hercules Segherslaan Bilthoven",
+      "latitude":52.146367026053525,
+      "longitude":5.210275501012801
+   },
+   {
+      "places":"10 Ornsteinsingel Utrecht",
+      "latitude":52.10766988804668,
+      "longitude":5.132180303335191
+   },
+   {
+      "places":"Ingenieur F.E.D. van Enschedeweg Benschop",
+      "latitude":52.00623708691189,
+      "longitude":5.002436488866806
+   },
+   {
+      "places":"Noordeloos",
+      "latitude":51.91928019116846,
+      "longitude":4.934430420398712
+   },
+   {
+      "places":"Brandwijk",
+      "latitude":51.884304413411265,
+      "longitude":4.829888306558132
+   },
+   {
+      "places":"43 Veersedijk Hendrik-Ido-Ambacht",
+      "latitude":51.85244730303754,
+      "longitude":4.648496545851231
+   },
+   {
+      "places":"343 Weverseinde Puttershoek",
+      "latitude":51.810392504176264,
+      "longitude":4.565335996448994
+   },
+   {
+      "places":"14 Nieuweweg Gorinchem",
+      "latitude":51.85554742788886,
+      "longitude":4.944477640092373
+   },
+   {
+      "places":"6 Klein Oosterwijk Leerdam",
+      "latitude":51.88120627013689,
+      "longitude":5.080531686544418
+   },
+   {
+      "places":"Herwijnen",
+      "latitude":51.85864733917003,
+      "longitude":5.137203745543958
+   },
+   {
+      "places":"Unnamed Road Dordrecht",
+      "latitude":51.80103654561679,
+      "longitude":4.746727757155895
+   },
+   {
+      "places":"14 Honderdland Maasdijk",
+      "latitude":51.96123369620649,
+      "longitude":4.224707186222076
+   },
+   {
+      "places":"54 Veckdijk Vierpolders",
+      "latitude":51.884304827310615,
+      "longitude":4.176837131381035
+   },
+   {
+      "places":"31 W. Pijperstraat Spijkenisse",
+      "latitude":51.829874360284315,
+      "longitude":4.312891513109207
+   },
+   {
+      "places":"Munnikenweg Westmaas",
+      "latitude":51.78857453682493,
+      "longitude":4.494283273816109
+   },
+   {
+      "places":"8-12 Langeweg Zuidland",
+      "latitude":51.81431715793427,
+      "longitude":4.234796315431595
+   },
+   {
+      "places":"Maasland",
+      "latitude":51.94572190355192,
+      "longitude":4.2864445969462395
+   },
+   {
+      "places":"N470 Berkel en Rodenrijs",
+      "latitude":52.0186394831827,
+      "longitude":4.474105350673199
+   },
+   {
+      "places":"68 Lagewaard Koudekerk aan den Rijn",
+      "latitude":52.1401618567615,
+      "longitude":4.613937623798847
+   },
+   {
+      "places":"8 Rozenlaan De Kwakel",
+      "latitude":52.24210321883812,
+      "longitude":4.785238914191723
+   },
+   {
+      "places":"Polderweg Abcoude",
+      "latitude":52.26754122050338,
+      "longitude":4.956541880965233
+   },
+   {
+      "places":"2 Googpad Nederhorst Den Berg",
+      "latitude":52.25520814736363,
+      "longitude":5.061125569045544
+   },
+   {
+      "places":"Noorden",
+      "latitude":52.15603354036038,
+      "longitude":4.816905409097672
+   },
+   {
+      "places":"5 Bilderdammerlaan De Kwakel",
+      "latitude":52.21461839867704,
+      "longitude":4.727390371263027
+   },
+   {
+      "places":"Woubrugge",
+      "latitude":52.17459952057566,
+      "longitude":4.647524580359459
+   },
+   {
+      "places":"Hazerswoude Hazerswoude-Dorp",
+      "latitude":52.107037915869704,
+      "longitude":4.588273242115974
+   },
+   {
+      "places":"Unnamed Road Wassenaar",
+      "latitude":52.11670205460381,
+      "longitude":4.403182379901409
+   },
+   {
+      "places":"Polderbaan Vijfhuizen",
+      "latitude":52.339742668498374,
+      "longitude":4.708012081682683
+   },
+   {
+      "places":"30 Provincialeweg Zaandam",
+      "latitude":52.436433421539434,
+      "longitude":4.816905409097672
+   },
+   {
+      "places":"Katwoude",
+      "latitude":52.47332348615997,
+      "longitude":5.051598362624645
+   },
+   {
+      "places":"163a Gageldijk Utrecht",
+      "latitude":52.131542360379086,
+      "longitude":5.102396719157696
+   },
+   {
+      "places":"M.A. Reinaldaweg Benschop",
+      "latitude":51.996927614782834,
+      "longitude":4.966907948255539
+   },
+   {
+      "places":"25 Middenpolderweg Streefkerk",
+      "latitude":51.904480787252226,
+      "longitude":4.78787787258625
+   },
+   {
+      "places":"Slingerkade Zevenhuizen",
+      "latitude":51.993959661344924,
+      "longitude":4.567698687314986
+   },
+   {
+      "places":"1 Abtsrechtseweg Schipluiden",
+      "latitude":51.978287579404466,
+      "longitude":4.328181110322475
+   },
+   {
+      "places":"5A Provenierstraat Vierpolders",
+      "latitude":51.87683208165117,
+      "longitude":4.1781386733055115
+   },
+   {
+      "places":"Strijen",
+      "latitude":51.76619864773697,
+      "longitude":4.522921219468117
+   }
+]

@@ -14,7 +14,7 @@ Sample projects:
 
 [4 - Memorable Place Exercise](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/4-Memorable-Place-Exercise)
 
-
+[5 - Maps Clustering Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/5-Maps-Clustering-Demo)
 
 I would be happy to know your feedback and help me to develop these examples.
 
