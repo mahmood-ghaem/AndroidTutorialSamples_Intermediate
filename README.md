@@ -16,6 +16,9 @@ Sample projects:
 
 [5 - Maps Clustering Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/5-Maps-Clustering-Demo)
 
+[6 - NewsApp](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/6-NewsApp)
+
+
 I would be happy to know your feedback and help me to develop these examples.
 
 Good luck!
