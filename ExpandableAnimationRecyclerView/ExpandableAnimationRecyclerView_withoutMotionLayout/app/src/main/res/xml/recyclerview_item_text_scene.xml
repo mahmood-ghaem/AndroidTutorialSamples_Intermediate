@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:motion="http://schemas.android.com/apk/res-auto">
+
+    <Transition
+        motion:constraintSetEnd="@+id/end"
+        motion:constraintSetStart="@+id/start"
+        motion:duration="2000" />
+
+    <Transition
+        motion:constraintSetEnd="@+id/changePopulation_end"
+        motion:constraintSetStart="@+id/changePopulation_start"
+        motion:duration="2000" />
+    <Transition
+        motion:constraintSetEnd="@+id/changeDescription_end"
+        motion:constraintSetStart="@+id/changeDescription_start"
+        motion:duration="2000" />
+
+
+    <ConstraintSet android:id="@+id/changeDescription_start">
+        <Constraint
+            android:id="@+id/textViewPopulation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha="1"
+            android:padding="20dp"
+            motion:layout_constraintEnd_toEndOf="parent"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toBottomOf="@id/guidelineHorizontalMiddle" />
+        <Constraint
+            android:id="@+id/textViewDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha="0"
+            android:padding="20dp"
+            motion:layout_constraintEnd_toStartOf="parent"
+            motion:layout_constraintTop_toBottomOf="@id/guidelineHorizontalMiddle" />
+        <Constraint
+            android:id="@+id/viewLine"
+            android:layout_width="75dp"
+            android:layout_height="2dp"
+            motion:layout_constraintStart_toStartOf="@id/textViewPopulationMenu"
+            motion:layout_constraintTop_toBottomOf="@id/textViewPopulationMenu" />
+    </ConstraintSet>
+    <ConstraintSet android:id="@+id/changeDescription_end">
+        <Constraint
+            android:id="@+id/textViewPopulation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha="0"
+            android:padding="20dp"
+            motion:layout_constraintStart_toEndOf="parent"
+            motion:layout_constraintTop_toBottomOf="@id/guidelineHorizontalMiddle" />
+        <Constraint
+            android:id="@+id/textViewDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha="1"
+            android:padding="20dp"
+            motion:layout_constraintEnd_toEndOf="parent"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toBottomOf="@id/guidelineHorizontalMiddle" />
+        <Constraint
+            android:id="@+id/viewLine"
+            android:layout_width="75dp"
+            android:layout_height="2dp"
+            motion:layout_constraintStart_toStartOf="@id/textViewDescriptionMenu"
+            motion:layout_constraintTop_toBottomOf="@id/textViewDescriptionMenu" />
+    </ConstraintSet>
+
+    <ConstraintSet android:id="@+id/changePopulation_start">
+        <Constraint
+            android:id="@+id/textViewPopulation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha="0"
+            android:padding="20dp"
+            motion:layout_constraintStart_toEndOf="parent"
+            motion:layout_constraintTop_toBottomOf="@id/guidelineHorizontalMiddle" />
+        <Constraint
+            android:id="@+id/textViewDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha="1"
+            android:padding="20dp"
+            motion:layout_constraintEnd_toEndOf="parent"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toBottomOf="@id/guidelineHorizontalMiddle" />
+        <Constraint
+            android:id="@+id/viewLine"
+            android:layout_width="75dp"
+            android:layout_height="2dp"
+            motion:layout_constraintStart_toStartOf="@id/textViewDescriptionMenu"
+            motion:layout_constraintTop_toBottomOf="@id/textViewDescriptionMenu" />
+    </ConstraintSet>
+    <ConstraintSet android:id="@+id/changePopulation_end">
+        <Constraint
+            android:id="@+id/textViewPopulation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha="1"
+            android:padding="20dp"
+            motion:layout_constraintEnd_toEndOf="parent"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toBottomOf="@id/guidelineHorizontalMiddle" />
+        <Constraint
+            android:id="@+id/textViewDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha="0"
+            android:padding="20dp"
+            motion:layout_constraintEnd_toStartOf="parent"
+            motion:layout_constraintTop_toBottomOf="@id/guidelineHorizontalMiddle" />
+        <Constraint
+            android:id="@+id/viewLine"
+            android:layout_width="70dp"
+            android:layout_height="2dp"
+            motion:layout_constraintStart_toStartOf="@id/textViewPopulationMenu"
+            motion:layout_constraintTop_toBottomOf="@id/textViewPopulationMenu" />
+    </ConstraintSet>
+
+
+    <ConstraintSet android:id="@+id/start">
+        <Constraint
+            android:id="@+id/textViewDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:alpha="0"
+            android:padding="20dp"
+            motion:layout_constraintEnd_toEndOf="parent"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toBottomOf="@id/guidelineHorizontalMiddle" />
+
+        <Constraint
+            android:id="@+id/textViewDescriptionMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="60dp"
+            motion:layout_constraintEnd_toStartOf="parent"
+            motion:layout_constraintTop_toBottomOf="@id/guidelineHorizontalMiddle" />
+        <Constraint
+            android:id="@+id/textViewPopulationMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="80dp"
+            motion:layout_constraintEnd_toEndOf="parent"
+            motion:layout_constraintStart_toEndOf="parent"
+            motion:layout_constraintTop_toBottomOf="@id/guidelineHorizontalMiddle" />
+        <Constraint
+            android:id="@+id/textViewWebAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            motion:layout_constraintBottom_toBottomOf="parent"
+            motion:layout_constraintStart_toStartOf="parent" />
+        <Constraint
+            android:id="@+id/viewLine"
+            android:layout_width="75dp"
+            android:layout_height="2dp"
+            android:alpha="0"
+            motion:layout_constraintStart_toStartOf="@id/textViewDescriptionMenu"
+            motion:layout_constraintTop_toBottomOf="@id/textViewDescriptionMenu" />
+    </ConstraintSet>
+    <ConstraintSet android:id="@+id/end">
+        <Constraint
+            android:id="@+id/textViewDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            motion:layout_constraintEnd_toEndOf="parent"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toBottomOf="@id/guidelineHorizontalMiddle" />
+
+        <Constraint
+            android:id="@+id/textViewDescriptionMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toBottomOf="@id/guidelineHorizontalMiddle" />
+        <Constraint
+            android:id="@+id/textViewPopulationMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            motion:layout_constraintEnd_toEndOf="parent"
+            motion:layout_constraintHorizontal_bias="0.5"
+            motion:layout_constraintStart_toStartOf="parent"
+            motion:layout_constraintTop_toBottomOf="@id/guidelineHorizontalMiddle" />
+        <Constraint
+            android:id="@+id/textViewWebAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            motion:layout_constraintBottom_toBottomOf="parent"
+            motion:layout_constraintEnd_toEndOf="parent" />
+        <Constraint
+            android:id="@+id/viewLine"
+            android:layout_width="75dp"
+            android:layout_height="2dp"
+            android:alpha="1"
+            motion:layout_constraintStart_toStartOf="@id/textViewDescriptionMenu"
+            motion:layout_constraintTop_toBottomOf="@id/textViewDescriptionMenu" />
+    </ConstraintSet>
+</MotionScene>
