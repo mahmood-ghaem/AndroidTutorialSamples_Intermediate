@@ -18,7 +18,7 @@ Sample projects:
 
 [6 - NewsApp](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/6-NewsApp)
 
-[7 - Expandable Animation RecyclerView](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/7-ExpandableAnimationRecyclerView)
+[7 - Expandable Animation RecyclerView](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/7-Expandable-Animation-RecyclerView)
 
 
 I would be happy to know your feedback and help me to develop these examples.
