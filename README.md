@@ -4,7 +4,7 @@
 <hr>
 I'm going to publish some Intermediate Android project in this repository. I hope you like them.
 
-Sample projects:
+## Sample projects:
 
 [1 - CountDown Timer Demo](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/1-CountDownTimer-Demo)
 
