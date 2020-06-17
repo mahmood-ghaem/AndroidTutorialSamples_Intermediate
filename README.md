@@ -20,6 +20,8 @@ I'm going to publish some Intermediate Android project in this repository. I hop
 
 [7 - Expandable Animation RecyclerView](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/7-Expandable-Animation-RecyclerView)
 
+[8 - Custom Snackbar Message](https://github.com/mahmood-ghaem/AndroidTutorialSamples_Intermediate/wiki/8-Custom-Snackbar-Message)
+
 
 I would be happy to know your feedback and help me to develop these examples.
 
